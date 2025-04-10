@@ -41,9 +41,14 @@
 ## 📸 Screenshots
 
 > *Add screenshots here to showcase UI and features*  
-> Example:  
-> ![Home Page](screenshots/home.png)  
-> ![Profile Page](screenshots/profile.png)
+> ## 📸 Screenshots
+
+### Dark Theme
+![Home](screenshots/dark.png)
+
+### Light Theme
+![Home](screenshots/light.png)
+
 
 ---
 
