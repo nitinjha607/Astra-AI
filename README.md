@@ -71,3 +71,7 @@ git clone https://github.com/your-username/astra-ai.git
 cd astra-ai
 flutter pub get
 flutter run
+```
+## 🤝 Contributing
+- Contributions are welcome!
+- If you find a bug or have a feature request, feel free to open an issue or submit a pull request.
