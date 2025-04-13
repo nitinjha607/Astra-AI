@@ -66,7 +66,7 @@
 ### Prerequisites
 
 - Flutter SDK installed  
-- Firebase project set up  
+Firebase project set up  
 - `google-services.json` (for Android) and/or `GoogleService-Info.plist` (for iOS)
 
 ### Installation
