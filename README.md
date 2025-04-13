@@ -38,20 +38,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> *Add screenshots here to showcase UI and features*  
-> ## 📸 Screenshots
-
-### Dark Theme
-![Home](screenshots/dark.png)
-
-### Light Theme
-![Home](screenshots/light.png)
-
-
----
-
 ## 📌 Future Enhancements
 
 - Integration with OpenAI / ChatGPT for real-time assistant responses  
