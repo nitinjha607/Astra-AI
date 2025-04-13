@@ -63,6 +63,10 @@ cd astra-ai
 flutter pub get
 flutter run
 ```
+## 📦 Download
+
+[![Download APK](https://img.shields.io/badge/Download%20APK-AstraAI-blue?style=for-the-badge&logo=android)](https://github.com/nitinjha607/Astra-AI/raw/main/AstraAI.apk)
+
 ## 🤝 Contributing
 - Contributions are welcome!
 - If you find a bug or have a feature request, feel free to open an issue or submit a pull request.
